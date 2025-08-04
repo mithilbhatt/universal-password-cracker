@@ -8,7 +8,9 @@ A cross-platform GUI tool for educational password recovery and security testing
 ## 🚀 Quick Start
 
 git clone https://github.com/yourusername/universal-password-cracker.git
+
 cd universal-password-cracker
+
 python launcher.py
 
 
